@@ -1,0 +1,34 @@
+{
+	"weirdProducts" : [
+		{
+			"name" : "Instant Underpants",
+			"price" : 3.55,
+			"details" : "Disposable underpants-in-a-can that is compressed into a tight pellet that loosens when wet. Available on amazon.com",
+			"image" : "./assets/instant-underwear.jpg"
+		},
+		{
+			"name" : "GFF Grass Flip Flops",
+			"price" : 62.99,
+			"details" : "Synthetic grass bonded to classic foam-core flip flops. Available on amazon.com",
+			"image" : "./assets/grass-sandal.jpg"
+		},
+		{
+			"name" : "Nice Butt Bathroom Decor Box",
+			"price" : 29.95,
+			"details" : "Funny bathroom decor that makes a great toilet paper holder and storage. Available on amazon.com",
+			"image" : "./assets/nice-butt.jpg"
+		},
+		{
+			"name" : "BigMouth Inc The Great Garden Gnome Massacre",
+			"price" : 32.99,
+			"details" : "The Great Garden Gnome Massacre terrifying T-Rex is a defender of humanity with a taste for gnomes. Harness the power of this mighty beast in your home, garden or office. 9-inches tall; 5-inches wide at base. Made of durable cast poly resin. Available on amazon.com",
+			"image" : "./assets/godzilla-gnome.jpg"
+		},
+		{
+			"name" : "Pet Umbrella with Leash",
+			"price" : 20.99,
+			"details" : "Bad weather should not stop your pet's walking and outdoor activities, this umbrella keep your pet well protected in rainy days. Available on amazon.com",
+			"image" : "./assets/dog-umbrella.jpg"
+		}
+	]
+}
